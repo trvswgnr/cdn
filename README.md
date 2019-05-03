@@ -1,2 +1,2 @@
-# cdn
+# CDN
 My personal CDN.
